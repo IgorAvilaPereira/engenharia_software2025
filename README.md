@@ -9,7 +9,6 @@
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/./02_aula) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./02_aula/arquitetura_software.md) <br>
 [mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./02_aula/mvc_mvp_mvvm.md) <br>
-<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/02_aula) <br><br>
 &nbsp;
 ## [./03_aula](https://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/./03_aula) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./03_aula/introducao.md) <br>
