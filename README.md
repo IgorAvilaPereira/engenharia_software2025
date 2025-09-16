@@ -9,5 +9,8 @@
 [tecnica_pontuacao.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/tecnica_pontuacao.md) <br>
 [tecnica_rice.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/tecnica_rice.md) <br>
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/./02_aula) <br>
+[arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./02_aula/arquitetura_software.md) <br>
+[diagramas_arquiteturais.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./02_aula/diagramas_arquiteturais.md) <br>
+[mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./02_aula/mvc_mvp_mvvm.md) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/02_aula) <br><br>
 &nbsp;
