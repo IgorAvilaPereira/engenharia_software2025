@@ -1,6 +1,7 @@
 # engenharia_software2025 <br>
 ## [./01_introducao](https://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/./01_introducao) <br>
 [analise_valor_risco.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/analise_valor_risco.md) <br>
+[ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/ementa.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/introducao.md) <br>
 [metodo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/metodo_moscow.md) <br>
 [modelo_kano.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/modelo_kano.md) <br>
@@ -15,3 +16,6 @@
 ## [./04_aula](https://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/./04_aula) <br>
 [diagramas_arquiteturais.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./04_aula/diagramas_arquiteturais.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./04_aula/introducao.md) <br>
+## [./05_aula](https://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/./05_aula) <br>
+[ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./05_aula/ciclo_de_vida_tradicional.md) <br>
+[processos_ageis.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./05_aula/processos_ageis.md) <br>
