@@ -4,12 +4,6 @@
 
 Apresentar como transformar requisitos em **modelos arquiteturais de software**, mostrando estilos, diagramas e padrões arquiteturais mais utilizados.
 
----
-
-### ⏱️ Duração sugerida: 1h30–2h
-
----
-
 ## 1. Introdução: Da análise ao projeto (20 min)
 
 * Relembrar a Aula 1: requisitos bem definidos = base para projetar soluções.
@@ -41,6 +35,7 @@ Apresentar como transformar requisitos em **modelos arquiteturais de software**,
 
 ---
 
+<!--
 ## 3. Diagramas Arquiteturais (20 min)
 
 * Função: comunicar a visão do sistema.
@@ -52,8 +47,9 @@ Apresentar como transformar requisitos em **modelos arquiteturais de software**,
 * Exemplo: diagrama de app de lista de tarefas → interface (app), API, banco.
 
 ---
+-->
 
-## 4. Padrões Arquiteturais (30–35 min)
+## 3. Padrões Arquiteturais (30–35 min)
 
 ### 🔹 MVC (Model-View-Controller)
 
