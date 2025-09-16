@@ -9,6 +9,7 @@
 [tecnica_rice.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_aula/tecnica_rice.md) <br>
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/./02_aula) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./02_aula/arquitetura_software.md) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./02_aula/introducao.md) <br>
 [mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./02_aula/mvc_mvp_mvvm.md) <br>
 ## [./03_aula](https://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/./03_aula) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./03_aula/introducao.md) <br>
