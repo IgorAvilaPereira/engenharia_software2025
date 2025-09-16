@@ -1,6 +1,10 @@
 # engenharia_software2025 <br>
 ## [./01_introducao](https://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/./01_introducao) <br>
+[analise_valor_risco.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/analise_valor_risco.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/introducao.md) <br>
 [metodo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/metodo_moscow.md) <br>
+[modelo_kano.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/modelo_kano.md) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2025/tree/main/01_aula1) <br><br>
 &nbsp;
+[tecnica_pontuacao.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/tecnica_pontuacao.md) <br>
+[tecnica_rice.md](https://github.com/IgorAvilaPereira/engenharia_software2025/blob/main/./01_introducao/tecnica_rice.md) <br>
